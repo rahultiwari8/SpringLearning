@@ -15,6 +15,6 @@ public class MainClaa {
        // Bike b =new Bike();
        // b.drive();
        Car c= applicationContext.getBean(Car.class);
-    c.drive();
+       c.drive();
     }
 }
