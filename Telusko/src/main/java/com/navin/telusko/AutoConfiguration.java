@@ -17,6 +17,7 @@ public class AutoConfiguration {
     {
         Car c= new Car();
         return c;
+       
     }
 
 }
