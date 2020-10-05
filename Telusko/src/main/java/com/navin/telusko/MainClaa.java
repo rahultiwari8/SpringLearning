@@ -17,6 +17,6 @@ public class MainClaa {
        Car c= applicationContext.getBean(Car.class);
        c.drive();
        
-       System.out.println("changes by sts");
+       System.out.println("changes by eclipse");
     }
 }
